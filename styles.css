@@ -51,3 +51,25 @@ main {
 section h2 {
     color: #333;
 }
+
+.night-mode body {
+    background-color: #333;
+    color: #fff;
+}
+
+.night-mode header {
+    background-color: #111;
+}
+
+.night-mode nav {
+    background-color: #222;
+}
+
+.night-mode main {
+    background-color: #444;
+}
+
+.night-mode section h2 {
+    color: #fff;
+}
+
